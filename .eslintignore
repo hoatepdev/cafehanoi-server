@@ -1,0 +1,6 @@
+src/infra/database/postgres/migrations
+src/infra/database/mongo/migrations
+src/utils/collection.ts
+test/initialization.js
+commitlint.config.js
+*.md
